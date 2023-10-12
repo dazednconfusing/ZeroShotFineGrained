@@ -1,0 +1,51 @@
+0 seiurus aurocapillus | range_map = seiurus aurocapilla map .
+1 svg | range_map_caption = range of s .
+2  aurocapilla {leftlegend|#ffff00|breeding range|outline=gray}{leftlegend|#0000ff|wintering range|outline=gray} }}the ovenbird (seiurus aurocapilla) is a small songbird of the new world warbler family (parulidae) .
+3  this migratory bird breeds in eastern north america and winters in central america , many caribbean islands , florida , and northern venezuela .
+4 ==taxonomy==the genus seiurus is currently treated as monotypic , containing only the ovenbird; it is genetically distinct from all other species in the family parulidae , probably the first genus to evolve separately from the rest of the family .
+5 before the recent genetic studies were carried out , the waterthrushes were also included in seiurus; these are now treated separately in the genus parkesia as they are not very closely related to the ovenbird .
+6 the species name aurocapilla is a noun phrase , so the original spelling is retained , not changed according to the gender of the genus name; linnaeus originally named it motacilla aurocapilla , and the ending is not to be changed to -us as commonly cited in the past .
+7   etymologically the scientific name aurocapilla comes from latin meaning "golden haired" and seiurus from greek seio , the verb to shake , and urus , from tail .
+8 == description ==ovenbirds are large wood warblers and is sometimes confused by the untrained for a thrush .
+9  adults measure {convert|11|-|16|cm|in|abbr=on} long and span {convert|19|-|26|cm|in|abbr=on} across the wings .
+10  they weigh {convert|19|g|oz|abbr=on} on average , with a range of {convert|14|-|28.8|g|oz|abbr=on} .
+11  among standard measurements , the wing chord is {convert|6.8|to|8.3|cm|in|abbr=on}, the tail is {convert|5|to|5.8|cm|in|abbr=on}, the bill is {convert|1.1|to|1.3|cm|in|abbr=on} and the tarsus is {convert|2|to|2.3|cm|in|abbr=on} .
+12  they tend to be heavier in winter and particularly at the start of their migration .
+13  they have olive-brown upperparts and white underparts heavily streaked with black; the flanks have an olive hue .
+14  a white ring surrounds the eyes , and a black stripe runs below the cheek .
+15  they have a line of orange feathers with olive-green tips running along the top of their head , bordered on each side with blackish-brown .
+16  the orange feathers can be erected to form a small crest .
+17  the eyes and the upper part of the thin pointed beak are dark , while the lower beak is horn-colored and the legs and feet are pinkish .
+18 males and females look alike .
+19  immature birds have tawny fringes to the tertiary remiges and sometimes buff-tipped outer primary wing coverts .
+20  most conspicuously , the olive-green tips of the crown feathers , which are hardly visible in adult birds , are far larger in extent in immatures and cover the orange crown-stripe almost or completely .
+21 the main song of the ovenbird is a series of strident , relatively low-pitched , bisyallabic motives repeated without pause about eight times and increasing in volume .
+22  usually , the second syllable in each motive is sharply accented: "chur-tee chur-tee chur-tee chur-tee chur-tee chur-tee chur-tee!" male ovenbirds utter a sweet chattering song in the air at twilight , after the manner of the skylark , incorporating portions of the main song into a jumble of sputtering notes and mimicry as they dive back to earth .
+23  the call is a variably pitched , sharp "chik!" some variations recall the common call note of a downy woodpecker .
+24  if the bird is excited , it may repeat this call several times .
+25  the fight call is a high , rising siiii .
+26 == range and ecology ==their breeding habitats are mature deciduous and mixed forests , especially sites with little undergrowth , across canada and the eastern united states .
+27  for foraging , it prefers woodland with abundant undergrowth of shrubs; essentially , it thrives best in a mix of primary and secondary forest .
+28  ovenbirds migrate to the southeastern united states , the caribbean , and from mexico to northern south america .
+29  the birds are territorial all year round , occurring either singly or (in the breeding season) as mated pairs , for a short time accompanied by their young .
+30  during migration , they tend to travel in larger groups however , dispersing again once they reach their destination .
+31 in winter , they dwell mainly in lowlands , but may ascend up to {convert|1,500|m|ft|abbr=on} asl e .
+32 g .
+33  in costa rica .
+34  the first migrants leave in late august and appear on the wintering grounds as early as september , with successive waves arriving until late october or so .
+35  they depart again to breed between late march and early may , arriving on the breeding grounds throughout april and may .
+36  migration times do not seem to have changed much over the course of the 20th century .
+37 this bird seems just capable of crossing the atlantic , as there have been a handful of records in norway , ireland and great britain .
+38  however , half of the six finds were of dead birds .
+39  a live ovenbird on st mary's , isles of scilly in october 2004 was in bad condition , and died despite being taken into care .
+40 ovenbirds forage on the ground in dead leaves , sometimes hovering or catching insects in flight .
+41  this bird frequently tilts its tail up and bobs its head while walking; at rest , the tail may be flicked up and slowly lowered again , and alarmed birds flick the tail frequently from a half-raised position .
+42  these birds mainly eat terrestrial arthropods and snails , and also include fruit in their diet during winter .
+43 the nest , referred to as the "oven" (which gives the bird its name), is a domed structure placed on the ground , woven from vegetation , and containing a side entrance .
+44  both parents feed the young birds .
+45  the placement of the nest on the ground makes predation by chipmunks (tamias) a greater concern than for tree-nesting birds .
+46  chipmunks have been known to burrow directly into the nest to eat the young birds .
+47 the ovenbird is vulnerable to nest parasitism by the brown-headed cowbird (molothrus ater), which is becoming more plentiful in some areas .
+48  however , the ovenbirds' numbers appear to be remaining stable .
+49  altogether , it is not considered a threatened species by the iucn .
+50 ==in literature==it is the subject of a poem by robert frost , "the oven bird", published in his poetry collection mountain interval in 1916. robert bly also makes reference to "the nimble oven bird" in his short poem "the slim fir seeds .

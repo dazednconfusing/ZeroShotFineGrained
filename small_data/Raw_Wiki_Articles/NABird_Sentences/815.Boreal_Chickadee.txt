@@ -1,0 +1,17 @@
+0 the boreal chickadee (poecile hudsonicus) is a small passerine bird in the tit family paridae .
+1  it is found in the boreal forests of canada and the northern united states .
+2 ==description==adults are 12.514.5 cm (4.95.7 in) long with a weight of 712.4 g (.24-.34 oz) .
+3  they have grey-brown upperparts with a brown cap and greyish wings and tail; their face is mainly grey with white on the sides .
+4  their underparts are white with brown on the flanks and a black throat .
+5  they have a short dark bill , short wings and a long notched tail .
+6 ==behavior==their breeding habitat is coniferous woods in canada , alaska , and the northern edges of the lower forty-eight united states .
+7  they remain within their breeding range throughout the year , but sometimes move south in winter .
+8   winter movements south of their range , however , appear to have become increasingly rare .
+9   they nest in a hole in a tree; the pair excavates the nest , using a natural cavity or sometimes an old woodpecker nest .
+10   the pair remains together year round and may mate for life .
+11 these birds forage on conifer branches or probe into the bark , eating mainly insects and seeds , which may be stored for later use .
+12  they often forage in small flocks including other small birds , especially in winter .
+13 the call is a husky tsik-a-dee-dee , a variant on the call which gives chickadees their name .
+14 ==taxonomy==often , it is still placed in the genus parus with most other tits , but mtdna cytochrome b sequence data and morphology suggest that separating poecile more adequately expresses these birds' relationships .
+15  the american ornithologists' union has been treating poecile as a distinct genus for some time already .
+16  the genus name poecile has often been treated as feminine (giving the species name ending hudsonica); however , this was not specified by the original genus author johann jakob kaup , and under the iczn the genus name must therefore be treated by default as masculine , giving the name ending hudsonicus .

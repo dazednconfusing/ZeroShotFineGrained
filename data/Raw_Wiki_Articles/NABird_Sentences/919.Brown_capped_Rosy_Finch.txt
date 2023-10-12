@@ -1,0 +1,19 @@
+0 the brown-capped rosy finch (leucosticte australis) is a medium-sized finch .
+1 adults are brown on the head , back , and breast with pink on the belly , rump , and wings .
+2  the forehead is black .
+3  they have short black legs and a long forked tail .
+4 their breeding habitat is mountain peaks in the central rocky mountains of the united states .
+5  they build a cup nest in a cavity on a cliff , or re-use abandoned cliff swallow nests .
+6 in winter , these birds migrate short distances to lower elevations .
+7 these birds forage on the ground , but may fly to catch insects in flight .
+8  they mainly eat seeds from weeds and grasses and insects .
+9  they often feed in small flocks .
+10 at one time , the three north american rosy finches were considered to be one species .
+11 the population of this bird appears to be declining .
+12 like the other rosy-finches , the brown-capped rosy-finch is a bird of the high mountains , breeding above timberline .
+13  it has the smallest range of the three american species , being found primarily in colorado .
+14 adult descriptionmedium-sized finch .
+15 cinnamon-brown on back , breast , neck , and face .
+16 black forehead .
+17 red or pink on belly , rump , and in wings .
+18 immature descriptionjuvenile drab gray-brown all over , with pinkish in wings .

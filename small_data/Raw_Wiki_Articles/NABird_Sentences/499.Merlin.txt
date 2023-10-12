@@ -1,0 +1,61 @@
+0 the merlin (falco columbarius) is a small species of falcon from the northern hemisphere , with numerous subspecies throughout north america and eurasia .
+1  a bird of prey once known colloquially as a pigeon hawk in north america , the merlin breeds in the northern holarctic; some migrate to subtropical and northern tropical regions in winter .
+2  males typically have wingspans of 5358 centimetres (2123 in), with females being slightly larger .
+3  they are swift fliers and skilled hunters who specialize in preying on small birds in the size range of sparrows to quail .
+4  the merlin has for centuries been well regarded as a falconry bird .
+5  in recent decades merlin populations in north america have been significantly increasing , with some merlins becoming so well adapted to city life that they forgo migration .
+6 nomenclaturethe name "merlin" is derived from old french esmerillon via anglo-norman merilun or meriliun .
+7  there are related germanic words derived through older forms such as middle dutch smeerle , old high german smerle and old icelandic smyrill .
+8 [2] wycliffe's bible , around 1382, mentions an egle , & agriffyn , & a merlyon .
+9 [2] the species was once known as 'pigeon hawk' in north america .
+10 [3]the genus name is late latin; falco derives from falx , falcis , a sickle , referring to the claws of the bird .
+11 [4] the species name columbarius is latin for "of doves" from "columba", "dove" .
+12 [5]some regard the north american and eurasian (f .
+13  columbarius) populations as two distinct species .
+14  the first modern taxonomist to describe the merlin was carl linnaeus , a swede who reported his type specimen came from america .
+15  thirteen years after linnaeus's description marmaduke tunstall recognized the eurasian birds as a distinct taxon aesalon in his ornithologica britannica .
+16  if two species of merlins are recognized , the old world birds would thus bear the scientific name f .
+17  aesalon .
+18 [6][7]systematicsthe relationships of the merlin are not resolved to satisfaction .
+19  in size , shape and coloration , it is fairly distinct among living falcons .
+20  the red-necked falcon is sometimes considered more closely related to the merlin than other falcons , but this seems to be a coincidence due to similar hunting habits; it could not be confirmed in more recent studies .
+21  indeed , the merlin seems to represent a lineage distinct from other living falcons since at least the early pliocene , some 5 ma (million years ago) .
+22  as suggested by biogeography and dna sequence data , it might be part of an ancient non-monophyletic radiation of falcos from europe to north america , alongside the ancestors of forms such as the american kestrel (f .
+23  sparvierus), and the aplomado falcon (f .
+24  femoralis) and its relatives .
+25  a relationship with the red-necked falcon (f .
+26  chicquera) was once proposed based on their phenetic similarity , but this is not considered likely today .
+27 [6][7][8][9][10]european subspecies aesalon .
+28  adult male (front) and female (behind)in that regard , it is interesting to note a fossil falcon from the early blancan (4.34.8 ma)[11] rexroad formation of kansas .
+29  known from an almost complete right coracoid (specimen ummp v29107) and some tarsometatarsus , tibiotarsus and humerus pieces (v27159, v57508-v57510, v57513-v57514), this prehistoric falcon was slightly smaller than a merlin and apparently a bit more stout-footed , but otherwise quite similar .
+30  it was part of the fox canyon and rexroad local fauna's , and may have been the ancestor of the living merlins or its close relative .
+31  with its age quite certainly pre-dating the split between the eurasian and north american merlins , it agrees with the idea of the merlin lineage originating in north america , or rather the colonization thereof .
+32  after adapting to its ecological niche , ancient merlins would have spread to eurasia again , with gene flow being interrupted as the beringia and greenland regions became icebound in the quaternary glaciation .
+33 [7][8][12]subspeciesthat the merlin has a long-standing presence on both sides of the atlantic is evidenced by the degree of genetic distinctness between eurasian and north american populations .
+34  arguably , they might be considered distinct species , with gene flow having ceased at least a million years ago , but probably more .
+35 [7]by and large , color variation in either group independently follows gloger's rule .
+36  the pacific temperate rain forest subspecies suckleyi's males are almost uniformly black on the upperside and have heavy black blotches on the belly , whereas those of the lightest subspecies , pallidus , have little non-dilute melanin altogether , with grey upperside and reddish underside pattern .
+37 [6]presumably coastal forest merlin (f .
+38  c .
+39  suckelyi), potter marsh , anchorage (alaska , united states)american group[6]    falco columbarius columbarius (linnaeus , 1758)  taiga merlin , tundra merlin    canada and northernmost united states east of rocky mountains , except great plains .
+40  migratory , winters in s north america , central america , the caribbean , and n south america from the guyanas to the northern andes foothills .
+41  rarely winters in the northern usa .
+42 [3][13]    falco columbarius richardsonii (ridgway , 1871)  prairie merlin    great plains from alberta to wyoming .
+43  resident (some winter dispersal) .
+44     falco columbarius suckleyi (ridgway , 1873)  coastal forest merlin , black merlin    pacific coast of north america , from s alaska to n washington state .
+45  resident (some altitudinal movements) .
+46 eurasian group[6]    falco columbarius/aesalon aesalon (tunstall , 1771)    northern eurasia from british isles through scandinavia to central siberia .
+47  population of northern britain shows evidence of gene flow from subaesalon .
+48  british isles population resident , rest migratory; winters in europe and the mediterranean region to about iran .
+49 male (presumably f .
+50  c .
+51 /a .
+52  pallidus) wintering in little rann of kutch (gujerat , india)    falco columbarius/aesalon subaesalon (c .
+53 l .
+54  brehm , 1827)  smyril (faroese), smyrill (icelandic)    iceland and faroe islands .
+55  latter population has some gene flow with aesalon .
+56  resident (some winter dispersal) .
+57     falco columbarius/aesalon pallidus (sushkin , 1900)    asian steppes between aral sea and altay mountains .
+58  migratory , winters in s central asia and n south asia .
+59     falco columbarius/aesalon insignis (clark , 1907)    siberia between yenisei and kolyma rivers .
+60  migratory , winters in continental east asia .

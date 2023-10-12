@@ -1,0 +1,49 @@
+0 dendroica fusca | range_map = dendroica_fusca_map .
+1 svg | range_map_caption = range of s .
+2  fusca {leftlegend|#ffff00|breeding range|outline=gray}{leftlegend|#0000ff|wintering range|outline=gray} }} the  blackburnian warbler (setophaga fusca [formerly dendroica fusca]) is a small new world warbler .
+3  they breed in eastern north america , from southern canada , westwards to the southern canadian prairies , the great lakes region and new england , to north carolina .
+4 blackburnian warblers are migratory , wintering in southern central america and in south america , and are very rare vagrants to western europe .
+5  these birds were named after anna blackburne , an english botanist .
+6 ==description==blackburnian warblers are small passerines and average-sized wood-warblers .
+7  they measure around {convert|11|to|13|cm|in|abbr=on} long , with a {convert|20|to|22|cm|in|abbr=on} wingspan , and weigh {convert|8|to|13|g|oz|abbr=on} .
+8  the average mass of an adult bird is {convert|9.7|g|oz|abbr=on}, although is slightly higher in fall due to fat reserves , averaging {convert|10.2|-|10.4|g|oz|abbr=on} .
+9  among standard measurements , the wing chord is {convert|6.3|to|7.3|cm|in|abbr=on}, the tail is {convert|4.2|to|5|cm|in|abbr=on}, the bill is {convert|0.9|to|1|cm|in|abbr=on} and the tarsus is {convert|1.6|to|1.8|cm|in|abbr=on} .
+10  in summer , male blackburnian warblers display dark gray backs and double white wing bars , with yellowish rumps and dark brown crowns .
+11  the underparts of these birds are white , and are tinged with yellow and streaked black .
+12  the head is strongly patterned in yellow and black , with a flaming-orange throat .
+13  it is the only north american warbler with this striking plumage .
+14  other plumages , including the fall male and adult female , are washed-out versions of the summer male , and in particular lack the bright colors and strong head pattern .
+15  the blackburnian warbler is practically unmistakable if seen well , even the female due her dull-yellow supercilium , contrasting with greyish cheeks and yellow throat contrasting with the dark streaky sides and back .
+16  the only other wood-warbler with an orange throat is the flame-throated warbler of central america and is very distinctive , lacking the contrasting blackish streaking about the head and whitish underside of a male blackburnian .
+17  basic plumages show weaker yellows and gray in place of black in the breeding male .
+18  blackburnian warblers' songs are a simple series of high swi notes , which often ascend in pitch .
+19  transliterations have included zip zip zip zip zip zip zip zip , titititi tseeeeee or teetsa teetsa teetsa teetsa .
+20  their call is a high sip .
+21  genetic research has shown that their closed living relative is the bay-breasted warbler , the latter species perhaps specialized to forage in the same coniferous trees at lower levels .
+22  hybridization in the wild has been recorded once each with a bay-breasted warbler (in west virginia , with a black-and-white warbler (in pennsylvania) and possibly a wintering hybrid with a kirtland's warbler (in hispaniola) .
+23 ==ecology==blackburnian warblers are solitary during winter and highly territorial on their breeding grounds and do not mix with other passerine species outside of the migratory period .
+24  however , during migration , they often join local mixed foraging flocks of species such as chickadees , kinglets and nuthatches .
+25  similarly , in the tropics they were found to be fairly social while engaging in migration but solitary from other passerines while wintering .
+26  these birds are basically insectivorous , but will include berries in their diets in wintertime .
+27  they usually forage by searching for insects or spiders in treetops .
+28  their breeding season diet is dominated by the larvae of lepidoptera , i .
+29 e .
+30  moths and butterflies .
+31  they may help control the spruce budworm (often considered a harmful pest) when breakouts occur , at the local if not at epidemic level .
+32  in one study from ontario , 98% of the diet was made of insects , the remaining 2% being spiders .
+33  among the migratory setophaga warblers , it is considered one of the specialist at foraging in the micro-habitat of the tree's top canopy .
+34  the breeding habitats of these birds are mature coniferous woodlands , the central part of their breeding range being in the southeastern portion of canada's boreal forest .
+35  however , their distribution as a breeding species continues broadly down much of new england and the appalachian mountains , from new york to northernmost georgia , in elevated mixed woodlands , especially ones containing spruce and hemlocks .
+36  hemlocks in particular are most likely to host blackburnian warblers in mixed forests .
+37  it typically winters in tropical montane forests , from roughly {convert|600|to|2500|m|ft|abbr=on}, mainly from colombia to peru , more sporadically in panama and the amazon region .
+38 blackburnian warblers begin their first clutches in mid-may to early june in the contigous united states and about 1 to 2 weeks later in quebec .
+39  this species build a nest consisting of an open cup of twigs , bark , plant fibers , and rootlets held to branch with spider web and lined with lichens , moss , hair , and dead pine needles that's placed near the end of a branch .
+40  although typically only laying one brood per year , if a nest is destroyed they are capable of producing a second or even third brood .
+41  three to five whitish eggs are laid in its nest which is usually placed {convert|2||38|m|ft|abbr=on} above the ground , on a horizontal branch .
+42  nests usually constructed outwardly with twigs , bark , plant fibers , and rootlets; lined with lichens , mosses , fine grasses , hair , dead pine needles , and even occasionally such exotic substances as string , willow cotton , horsehair , and cattail down .
+43  only the female broods and spends about 80% day actively brooding , with the male usually helping bring food to the nest .
+44  among warblers , they are relatively rarely parasitized at the nest by brown-headed cowbirds , most likely due to the cowbirds lack of success in dense pine-dominated forests .
+45  blue jays and red squirrels have been verified to prey on nestlings and new fledglings , while a merlin was recorded killing a brooding adult female .
+46  sharp-shinned hawks and cooper's hawks are likely , but not confirmed , predators of adult blackburnian warblers .
+47  by far the greatest threat faced by this species is destruction of forest habitat , which some predict could cause the blackburnian warbler to lose up more than 30% of its wintering or breeding habitat .
+48  however , currently this species continues to occur over a large range and can appear in stable numbers where habitat is appropriate .

@@ -1,0 +1,293 @@
+Unique class
+(404,)
+380 Allen's Hummingbird (Adult Male) merged to 228 Allen's Hummingbird
+679 Allen's Hummingbird (Female, immature) merged to 228 Allen's Hummingbird
+1001 American Goldfinch (Female/Nonbreeding Male) merged to 726 American Goldfinch
+794 American Goldfinch (Breeding Male) merged to 726 American Goldfinch
+662 American Kestrel (Female, immature) merged to 94 American Kestrel
+363 American Kestrel (Adult male) merged to 94 American Kestrel
+757 American Redstart (Adult Male) merged to 412 American Redstart
+964 American Redstart (Female/juvenile) merged to 412 American Redstart
+753 American Robin (Adult) merged to 718 American Robin
+960 American Robin (Juvenile) merged to 718 American Robin
+316 American Wigeon (Breeding male) merged to 92 American Wigeon
+615 American Wigeon (Female/Eclipse male) merged to 92 American Wigeon
+674 Anna's Hummingbird (Female, immature) merged to 152 Anna's Hummingbird
+375 Anna's Hummingbird (Adult Male) merged to 152 Anna's Hummingbird
+654 Bald Eagle (Immature, juvenile) merged to 108 Bald Eagle
+355 Bald Eagle (Adult, subadult) merged to 108 Bald Eagle
+993 Baltimore Oriole (Female/Immature male) merged to 742 Baltimore Oriole
+786 Baltimore Oriole (Adult male) merged to 742 Baltimore Oriole
+334 Barrow's Goldeneye (Breeding male) merged to 219 Barrow's Goldeneye
+633 Barrow's Goldeneye (Female/Eclipse male) merged to 219 Barrow's Goldeneye
+759 Bay-breasted Warbler (Breeding male) merged to 443 Bay-breasted Warbler
+966 Bay-breasted Warbler (Female, Nonbreeding male, Immature) merged to 443 Bay-breasted Warbler
+599 Black Guillemot (Nonbreeding, juvenile) merged to 144 Black Guillemot
+392 Black Guillemot (Breeding) merged to 144 Black Guillemot
+630 Black Scoter (Female/juvenile) merged to 201 Black Scoter
+331 Black Scoter (Male) merged to 201 Black Scoter
+666 Black-bellied Plover (Nonbreeding/juvenile) merged to 23 Black-bellied Plover
+367 Black-bellied Plover (Breeding) merged to 23 Black-bellied Plover
+673 Black-chinned Hummingbird (Female, immature) merged to 123 Black-chinned Hummingbird
+374 Black-chinned Hummingbird (Adult Male) merged to 123 Black-chinned Hummingbird
+651 Black-crowned Night-Heron (Immature) merged to 173 Black-crowned Night-Heron
+352 Black-crowned Night-Heron (Adult) merged to 173 Black-crowned Night-Heron
+981 Black-headed Grosbeak (Female/immature male) merged to 568 Black-headed Grosbeak
+774 Black-headed Grosbeak (Adult Male) merged to 568 Black-headed Grosbeak
+394 Black-legged Kittiwake (Adult) merged to 145 Black-legged Kittiwake
+601 Black-legged Kittiwake (Immature) merged to 145 Black-legged Kittiwake
+762 Black-throated Blue Warbler (Adult Male) merged to 589 Black-throated Blue Warbler
+969 Black-throated Blue Warbler (Female/Immature male) merged to 589 Black-throated Blue Warbler
+968 Blackpoll Warbler (Female/juvenile) merged to 582 Blackpoll Warbler
+761 Blackpoll Warbler (Breeding male) merged to 582 Blackpoll Warbler
+775 Blue Grosbeak (Adult Male) merged to 584 Blue Grosbeak
+982 Blue Grosbeak (Female/juvenile) merged to 584 Blue Grosbeak
+617 Blue-winged Teal  (Female/juvenile) merged to 116 Blue-winged Teal
+318 Blue-winged Teal  (Male) merged to 116 Blue-winged Teal
+779 Bobolink (Breeding male) merged to 254 Bobolink
+986 Bobolink (Female/juvenile/nonbreeding male) merged to 254 Bobolink
+989 Brewer's Blackbird (Male) merged to 416 Brewer's Blackbird
+782 Brewer's Blackbird (Female/Juvenile) merged to 416 Brewer's Blackbird
+372 Broad-billed Hummingbird (Adult Male) merged to 90 Broad-billed Hummingbird
+671 Broad-billed Hummingbird (Female, immature) merged to 90 Broad-billed Hummingbird
+677 Broad-tailed Hummingbird (Female, immature) merged to 200 Broad-tailed Hummingbird
+378 Broad-tailed Hummingbird (Adult Male) merged to 200 Broad-tailed Hummingbird
+360 Broad-winged Hawk (Adult) merged to 186 Broad-winged Hawk
+659 Broad-winged Hawk (Immature) merged to 186 Broad-winged Hawk
+990 Brown-headed Cowbird (Female/Juvenile) merged to 690 Brown-headed Cowbird
+783 Brown-headed Cowbird (Male) merged to 690 Brown-headed Cowbird
+631 Bufflehead (Female/immature male) merged to 209 Bufflehead
+332 Bufflehead (Breeding male) merged to 209 Bufflehead
+785 Bullock's Oriole (Adult male) merged to 728 Bullock's Oriole
+992 Bullock's Oriole (Female/Immature male) merged to 728 Bullock's Oriole
+606 California Gull (Immature) merged to 241 California Gull
+399 California Gull (Adult) merged to 241 California Gull
+637 California Quail (Female/juvenile) merged to 73 California Quail
+338 California Quail (Male) merged to 73 California Quail
+377 Calliope Hummingbird (Adult Male) merged to 180 Calliope Hummingbird
+676 Calliope Hummingbird (Female, immature) merged to 180 Calliope Hummingbird
+323 Canvasback (Breeding male) merged to 153 Canvasback
+622 Canvasback (Female/Eclipse male) merged to 153 Canvasback
+789 Cassin's Finch (Adult Male) merged to 408 Cassin's Finch
+996 Cassin's Finch (Female/immature) merged to 408 Cassin's Finch
+967 Chestnut-sided Warbler (Female/immature male) merged to 577 Chestnut-sided Warbler
+760 Chestnut-sided Warbler (Breeding male) merged to 577 Chestnut-sided Warbler
+976 Chipping Sparrow (Immature/nonbreeding adult) merged to 403 Chipping Sparrow
+769 Chipping Sparrow (Breeding) merged to 403 Chipping Sparrow
+618 Cinnamon Teal (Female/juvenile) merged to 122 Cinnamon Teal
+319 Cinnamon Teal (Male) merged to 122 Cinnamon Teal
+463 Common Eider (Female/juvenile) merged to 179 Common Eider
+295 Common Eider (Adult male) merged to 179 Common Eider
+696 Common Eider (Immature/Eclipse male) merged to 179 Common Eider
+665 Common Gallinule (Immature) merged to 110 Common Gallinule
+366 Common Gallinule (Adult) merged to 110 Common Gallinule
+333 Common Goldeneye (Breeding male) merged to 214 Common Goldeneye
+632 Common Goldeneye (Female/Eclipse male) merged to 214 Common Goldeneye
+343 Common Loon (Breeding) merged to 194 Common Loon
+642 Common Loon (Nonbreeding/juvenile) merged to 194 Common Loon
+336 Common Merganser (Breeding male) merged to 229 Common Merganser
+635 Common Merganser (Female/immature male) merged to 229 Common Merganser
+756 Common Yellowthroat (Adult Male) merged to 391 Common Yellowthroat
+963 Common Yellowthroat (Female/immature male) merged to 391 Common Yellowthroat
+657 Cooper's Hawk (Immature) merged to 155 Cooper's Hawk
+358 Cooper's Hawk (Adult) merged to 155 Cooper's Hawk
+376 Costa's Hummingbird (Adult Male) merged to 167 Costa's Hummingbird
+675 Costa's Hummingbird (Female, immature) merged to 167 Costa's Hummingbird
+975 Dark-eyed Junco (White-winged) merged to 744 Dark-eyed Junco
+746 Dark-eyed Junco (Slate-colored) merged to 744 Dark-eyed Junco
+1010 Dark-eyed Junco (Red-backed/Gray-headed) merged to 744 Dark-eyed Junco
+905 Dark-eyed Junco (Pink-sided) merged to 744 Dark-eyed Junco
+768 Dark-eyed Junco (Oregon) merged to 744 Dark-eyed Junco
+647 Double-crested Cormorant (Adult) merged to 134 Double-crested Cormorant
+348 Double-crested Cormorant (Immature) merged to 134 Double-crested Cormorant
+370 Dunlin (Breeding) merged to 129 Dunlin
+669 Dunlin (Nonbreeding/juvenile) merged to 129 Dunlin
+645 Eared Grebe (Nonbreeding/juvenile) merged to 157 Eared Grebe
+346 Eared Grebe (Breeding) merged to 157 Eared Grebe
+1005 European Starling (Juvenile) merged to 439 European Starling
+748 European Starling (Breeding Adult) merged to 439 European Starling
+856 European Starling (Nonbreeding Adult) merged to 439 European Starling
+795 Evening Grosbeak (Adult Male) merged to 740 Evening Grosbeak
+1002 Evening Grosbeak (Female/Juvenile) merged to 740 Evening Grosbeak
+749 Fox Sparrow (Red) merged to 591 Fox Sparrow
+1006 Fox Sparrow (Thick-billed/Slate-colored) merged to 591 Fox Sparrow
+901 Fox Sparrow (Sooty) merged to 591 Fox Sparrow
+614 Gadwall (Female/Eclipse male) merged to 87 Gadwall
+315 Gadwall (Breeding male) merged to 87 Gadwall
+638 Gambel's Quail (Female/juvenile) merged to 103 Gambel's Quail
+339 Gambel's Quail (Male) merged to 103 Gambel's Quail
+401 Glaucous-winged Gull (Adult) merged to 243 Glaucous-winged Gull
+608 Glaucous-winged Gull (Immature) merged to 243 Glaucous-winged Gull
+362 Golden Eagle (Adult) merged to 234 Golden Eagle
+661 Golden Eagle (Immature) merged to 234 Golden Eagle
+974 Golden-crowned Sparrow (Immature) merged to 737 Golden-crowned Sparrow
+767 Golden-crowned Sparrow (Adult) merged to 737 Golden-crowned Sparrow
+402 Great Black-backed Gull (Adult) merged to 244 Great Black-backed Gull
+609 Great Black-backed Gull (Immature) merged to 244 Great Black-backed Gull
+648 Great Cormorant (Immature) merged to 170 Great Cormorant
+349 Great Cormorant (Adult) merged to 170 Great Cormorant
+625 Greater Scaup (Female/Eclipse male) merged to 168 Greater Scaup
+326 Greater Scaup (Breeding male) merged to 168 Greater Scaup
+328 Harlequin Duck (Male) merged to 181 Harlequin Duck
+627 Harlequin Duck (Female/juvenile) merged to 181 Harlequin Duck
+972 Harris's Sparrow (Immature) merged to 722 Harris's Sparrow
+765 Harris's Sparrow (Adult) merged to 722 Harris's Sparrow
+396 Heermann's Gull (Adult) merged to 232 Heermann's Gull
+603 Heermann's Gull (Immature) merged to 232 Heermann's Gull
+607 Herring Gull (Immature) merged to 242 Herring Gull
+400 Herring Gull (Adult) merged to 242 Herring Gull
+634 Hooded Merganser (Female/immature male) merged to 225 Hooded Merganser
+335 Hooded Merganser (Breeding male) merged to 225 Hooded Merganser
+784 Hooded Oriole (Adult male) merged to 719 Hooded Oriole
+991 Hooded Oriole (Female/Immature male) merged to 719 Hooded Oriole
+643 Horned Grebe (Nonbreeding/juvenile) merged to 84 Horned Grebe
+344 Horned Grebe (Breeding) merged to 84 Horned Grebe
+997 House Finch (Female/immature) merged to 419 House Finch
+790 House Finch (Adult Male) merged to 419 House Finch
+796 House Sparrow (Male) merged to 445 House Sparrow
+1003 House Sparrow (Female/Juvenile) merged to 445 House Sparrow
+984 Indigo Bunting (Female/juvenile) merged to 706 Indigo Bunting
+777 Indigo Bunting (Adult Male) merged to 706 Indigo Bunting
+763 Lark Bunting (Breeding male) merged to 576 Lark Bunting
+970 Lark Bunting (Female/Nonbreeding male) merged to 576 Lark Bunting
+395 Laughing Gull (Breeding) merged to 218 Laughing Gull
+602 Laughing Gull (Nonbreeding/Immature) merged to 218 Laughing Gull
+983 Lazuli Bunting (Female/juvenile) merged to 687 Lazuli Bunting
+776 Lazuli Bunting (Adult Male) merged to 687 Lazuli Bunting
+1000 Lesser Goldfinch (Female/juvenile) merged to 715 Lesser Goldfinch
+793 Lesser Goldfinch (Adult Male) merged to 715 Lesser Goldfinch
+327 Lesser Scaup (Breeding male) merged to 174 Lesser Scaup
+626 Lesser Scaup (Female/Eclipse male) merged to 174 Lesser Scaup
+649 Little Blue Heron (Immature) merged to 99 Little Blue Heron
+350 Little Blue Heron (Adult) merged to 99 Little Blue Heron
+464 Long-tailed Duck (Summer male) merged to 203 Long-tailed Duck
+296 Long-tailed Duck (Winter male) merged to 203 Long-tailed Duck
+697 Long-tailed Duck (Female/juvenile) merged to 203 Long-tailed Duck
+758 Magnolia Warbler (Breeding male) merged to 430 Magnolia Warbler
+965 Magnolia Warbler (Female/immature male) merged to 430 Magnolia Warbler
+317 Mallard (Breeding male) merged to 102 Mallard
+616 Mallard (Female/Eclipse male) merged to 102 Mallard
+772 Northern Cardinal (Adult Male) merged to 310 Northern Cardinal
+979 Northern Cardinal (Female/Juvenile) merged to 310 Northern Cardinal
+681 Northern Flicker (Red-shafted) merged to 216 Northern Flicker
+382 Northern Flicker (Yellow-shafted) merged to 216 Northern Flicker
+347 Northern Gannet (Adult, Subadult) merged to 44 Northern Gannet
+646 Northern Gannet (Immature/Juvenile) merged to 44 Northern Gannet
+655 Northern Harrier (Female, immature) merged to 120 Northern Harrier
+356 Northern Harrier (Adult male) merged to 120 Northern Harrier
+321 Northern Pintail (Breeding male) merged to 130 Northern Pintail
+620 Northern Pintail (Female/Eclipse male) merged to 130 Northern Pintail
+320 Northern Shoveler (Breeding male) merged to 128 Northern Shoveler
+619 Northern Shoveler (Female/Eclipse male) merged to 128 Northern Shoveler
+1008 Orchard Oriole (Female/Juvenile) merged to 704 Orchard Oriole
+751 Orchard Oriole (Adult Male) merged to 704 Orchard Oriole
+916 Orchard Oriole (Immature Male) merged to 704 Orchard Oriole
+342 Pacific Loon (Breeding) merged to 132 Pacific Loon
+641 Pacific Loon (Nonbreeding/juvenile) merged to 132 Pacific Loon
+985 Painted Bunting (Female/juvenile) merged to 723 Painted Bunting
+778 Painted Bunting (Adult Male) merged to 723 Painted Bunting
+663 Peregrine Falcon (Immature) merged to 176 Peregrine Falcon
+364 Peregrine Falcon (Adult) merged to 176 Peregrine Falcon
+961 Phainopepla (Male) merged to 441 Phainopepla
+754 Phainopepla (Female/juvenile) merged to 441 Phainopepla
+600 Pigeon Guillemot (Nonbreeding, juvenile) merged to 190 Pigeon Guillemot
+393 Pigeon Guillemot (Breeding) merged to 190 Pigeon Guillemot
+787 Pine Grosbeak (Adult Male) merged to 294 Pine Grosbeak
+994 Pine Grosbeak (Female/juvenile) merged to 294 Pine Grosbeak
+995 Purple Finch (Female/immature) merged to 311 Purple Finch
+788 Purple Finch (Adult Male) merged to 311 Purple Finch
+365 Purple Gallinule (Adult) merged to 61 Purple Gallinule
+664 Purple Gallinule (Immature) merged to 61 Purple Gallinule
+959 Purple Martin (Female/juvenile) merged to 264 Purple Martin
+752 Purple Martin (Adult male) merged to 264 Purple Martin
+998 Red Crossbill (Female/juvenile) merged to 444 Red Crossbill
+791 Red Crossbill (Adult Male) merged to 444 Red Crossbill
+636 Red-breasted Merganser (Female/immature male) merged to 235 Red-breasted Merganser
+337 Red-breasted Merganser (Breeding male) merged to 235 Red-breasted Merganser
+381 Red-headed Woodpecker (Adult) merged to 31 Red-headed Woodpecker
+680 Red-headed Woodpecker (Immature) merged to 31 Red-headed Woodpecker
+644 Red-necked Grebe (Nonbreeding/juvenile) merged to 118 Red-necked Grebe
+345 Red-necked Grebe (Breeding) merged to 118 Red-necked Grebe
+359 Red-shouldered Hawk (Adult ) merged to 175 Red-shouldered Hawk
+658 Red-shouldered Hawk (Immature) merged to 175 Red-shouldered Hawk
+299 Red-tailed Hawk (Light morph adult) merged to 210 Red-tailed Hawk
+497 Red-tailed Hawk (Dark morph) merged to 210 Red-tailed Hawk
+700 Red-tailed Hawk (Light morph immature) merged to 210 Red-tailed Hawk
+640 Red-throated Loon (Nonbreeding/juvenile) merged to 74 Red-throated Loon
+341 Red-throated Loon (Breeding) merged to 74 Red-throated Loon
+987 Red-winged Blackbird (Female/juvenile) merged to 268 Red-winged Blackbird
+780 Red-winged Blackbird (Male) merged to 268 Red-winged Blackbird
+650 Reddish Egret (White morph) merged to 127 Reddish Egret
+351 Reddish Egret (Dark morph) merged to 127 Reddish Egret
+324 Redhead (Breeding male) merged to 159 Redhead
+623 Redhead (Female/Eclipse male) merged to 159 Redhead
+397 Ring-billed Gull (Adult) merged to 240 Ring-billed Gull
+604 Ring-billed Gull (Immature) merged to 240 Ring-billed Gull
+325 Ring-necked Duck (Breeding male) merged to 161 Ring-necked Duck
+624 Ring-necked Duck (Female/Eclipse male) merged to 161 Ring-necked Duck
+639 Ring-necked Pheasant (Female/juvenile) merged to 169 Ring-necked Pheasant
+340 Ring-necked Pheasant (Male) merged to 169 Ring-necked Pheasant
+980 Rose-breasted Grosbeak (Female/immature male) merged to 427 Rose-breasted Grosbeak
+773 Rose-breasted Grosbeak (Adult Male) merged to 427 Rose-breasted Grosbeak
+361 Rough-legged Hawk (Dark morph) merged to 224 Rough-legged Hawk
+660 Rough-legged Hawk (Light morph) merged to 224 Rough-legged Hawk
+672 Ruby-throated Hummingbird (Female, immature) merged to 107 Ruby-throated Hummingbird
+373 Ruby-throated Hummingbird (Adult Male) merged to 107 Ruby-throated Hummingbird
+465 Ruddy Duck (Winter male) merged to 238 Ruddy Duck
+297 Ruddy Duck (Breeding male) merged to 238 Ruddy Duck
+698 Ruddy Duck (Female/juvenile) merged to 238 Ruddy Duck
+678 Rufous Hummingbird (Female, immature) merged to 213 Rufous Hummingbird
+379 Rufous Hummingbird (Adult Male) merged to 213 Rufous Hummingbird
+369 Sanderling (Breeding) merged to 114 Sanderling
+668 Sanderling (Nonbreeding/juvenile) merged to 114 Sanderling
+770 Scarlet Tanager (Breeding Male) merged to 274 Scarlet Tanager
+977 Scarlet Tanager (Female/Nonbreeding Male) merged to 274 Scarlet Tanager
+357 Sharp-shinned Hawk (Adult ) merged to 135 Sharp-shinned Hawk
+656 Sharp-shinned Hawk (Immature) merged to 135 Sharp-shinned Hawk
+962 Snow Bunting (Nonbreeding) merged to 442 Snow Bunting
+755 Snow Bunting (Breeding adult) merged to 442 Snow Bunting
+611 Snow Goose (Blue morph) merged to 33 Snow Goose
+313 Snow Goose (White morph) merged to 33 Snow Goose
+667 Spotted Sandpiper (Nonbreeding/juvenile) merged to 56 Spotted Sandpiper
+368 Spotted Sandpiper (Breeding) merged to 56 Spotted Sandpiper
+906 Summer Tanager (Female) merged to 259 Summer Tanager
+750 Summer Tanager (Adult Male) merged to 259 Summer Tanager
+1007 Summer Tanager (Immature Male) merged to 259 Summer Tanager
+628 Surf Scoter (Female/immature) merged to 187 Surf Scoter
+329 Surf Scoter (Male) merged to 187 Surf Scoter
+298 Swainson's Hawk (Dark morph ) merged to 202 Swainson's Hawk
+699 Swainson's Hawk (Immature) merged to 202 Swainson's Hawk
+496 Swainson's Hawk (Light morph ) merged to 202 Swainson's Hawk
+1004 Vermilion Flycatcher (Female, immature) merged to 575 Vermilion Flycatcher
+797 Vermilion Flycatcher (Adult male) merged to 575 Vermilion Flycatcher
+605 Western Gull (Immature) merged to 239 Western Gull
+398 Western Gull (Adult) merged to 239 Western Gull
+771 Western Tanager (Breeding Male) merged to 291 Western Tanager
+978 Western Tanager (Female/Nonbreeding Male) merged to 291 Western Tanager
+354 White Ibis (Adult) merged to 198 White Ibis
+653 White Ibis (Immature) merged to 198 White Ibis
+973 White-crowned Sparrow (Immature) merged to 729 White-crowned Sparrow
+766 White-crowned Sparrow (Adult) merged to 729 White-crowned Sparrow
+764 White-throated Sparrow (White-striped) merged to 714 White-throated Sparrow
+971 White-throated Sparrow (Tan-striped/immature) merged to 714 White-throated Sparrow
+792 White-winged Crossbill (Adult Male) merged to 574 White-winged Crossbill
+999 White-winged Crossbill (Female/juvenile) merged to 574 White-winged Crossbill
+330 White-winged Scoter (Male) merged to 192 White-winged Scoter
+629 White-winged Scoter (Female/juvenile) merged to 192 White-winged Scoter
+371 Wilson's Phalarope (Breeding) merged to 158 Wilson's Phalarope
+670 Wilson's Phalarope (Nonbreeding, juvenile) merged to 158 Wilson's Phalarope
+613 Wood Duck (Female/Eclipse male) merged to 81 Wood Duck
+314 Wood Duck (Breeding male) merged to 81 Wood Duck
+652 Yellow-crowned Night-Heron (Immature) merged to 184 Yellow-crowned Night-Heron
+353 Yellow-crowned Night-Heron (Adult) merged to 184 Yellow-crowned Night-Heron
+781 Yellow-headed Blackbird (Adult Male) merged to 306 Yellow-headed Blackbird
+988 Yellow-headed Blackbird (Female/Immature Male) merged to 306 Yellow-headed Blackbird
+958 Yellow-rumped Warbler (Breeding Audubon's) merged to 691 Yellow-rumped Warbler
+1009 Yellow-rumped Warbler (Winter/juvenile Audubon's) merged to 691 Yellow-rumped Warbler
+798 Yellow-rumped Warbler (Winter/juvenile Myrtle) merged to 691 Yellow-rumped Warbler
+747 Yellow-rumped Warbler (Breeding Myrtle) merged to 691 Yellow-rumped Warbler
+322 Green-winged Teal (Male) merged to 147 Green-winged Teal
+621 Green-winged Teal  (Female/juvenile) merged to 147 Green-winged Teal
+
+
+Saved merge info. to ./mergetable.mat

@@ -1,0 +1,41 @@
+1	the scott 's oriole , icterus parisorum , is a medium-sized icterid .
+2	it is primarily found in the southwestern united states and south to baja california sur and central mexico .
+3	this bird was named by darius n. couch in honour of general winfield scott .
+4	although it was later discovered that it had previously been described by bonaparte , the common name was retained .1 medium-sized oriole with black hood extending onto breast and back .
+5	belly and rump are bright yellow .
+6	the wings are black with yellow shoulder patches and two white bars .
+7	tail is yellow with thick black tip and central line .
+8	strong direct flight with rapid wing beats .
+9	breeds in southern california , southern nevada , utah , arizona , new mexico , and western texas .
+10	spends winters mainly south of the u.s.-mexico border .
+11	found in desert grassland prairies and mountain canyons , particularly if yucca or palms are present ; nests in pinyon-juniper woodlands , sycamores , and cottonwoods .
+12	it is one of the first birds to start singing each day , starting before sunrise .
+13	it can be heard at all times of the day and throughout most of the summer .
+14	the scott 's oriole is closely associated with yuccas in much of its range .
+15	it forages for insects on the plant , eats nectar fromthe flowers , weaves its nest from fibers taken from dead leaves , and hangs the nest from live leaves .
+16	this bird was named by darius n. couch in honour of general winfield scott .
+17	although it was later discovered that it had previously been described by bonaparte , the common name was retained .
+18	a group of orioles are collectively known as a `` pitch '' and a `` split '' of orioles .1 the brilliant yellow and black scott 's oriole is a bird of desert hillsides , found in the arid southwest and into mexico .
+19	adult description
+20	medium-sized songbird .
+21	long tail .
+22	rather thin , straight , pointed bill .
+23	two wingbars on each dark wing .
+24	yellow to yellow-green .
+25	male lemon yellow with black head and chest .
+26	male description
+27	head , back , throat , and chest black .
+28	rest of body lemon yellow .
+29	wings black with a white wingbar and a yellow upper wingbar or epaulet bordered in white .
+30	tail black with yellow bases to outer tail feathers .
+31	female description
+32	variable amount of black spots or streaks on head , back , and throat .
+33	back olive-gray .
+34	underparts yellow to yellowish olive .
+35	wings brownish black with two whitish wingbars .
+36	tail olive ; yellowish at base .
+37	immature description
+38	juvenile dull olive .
+39	first year male resembles adult female .
+40	first year female similar , but duller and more brownish , and generally without black on throat or back .
+41	

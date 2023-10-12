@@ -1,0 +1,46 @@
+0 the mexican jay (aphelocoma wollweberi)  formerly known as the gray-breasted jay , is a new world jay native to the sierra madre oriental , sierra madre occidental , and central plateau of mexico and parts of the southwestern united states .
+1  in may 2011, the american ornithologists' union voted to split the mexican jay into two species , one retaining the common name mexican jay and one called the transvolcanic jay .
+2  the mexican jay is a medium-sized jay with blue upper parts and pale gray underparts .
+3  it resembles the western scrub jay but has an unstreaked throat and breast .
+4  it feeds largely on acorns and pine nuts , but includes many other plant and animal foods in its diet .
+5  it has a cooperative breeding system where the parents are assisted by other birds to raise their young .
+6  this is a common species with a wide range and the international union for conservation of nature has rated its conservation status as being of "least concern" .
+7  ==distribution and habitat==it is native to the sierra madre oriental , sierra madre occidental , and central plateau of mexico as well as eastern arizona , western new mexico and western texas in the united states .
+8  its preferred habitat is montane pine-oak forest .
+9 ==description==the mexican jay is a medium-large (~120 g) passerine similar in size to most other jays , with a blue head , blue-gray mantle , blue wings and tail , and pale gray breast and underparts .
+10  the sexes are morphologically similar , and juveniles differ only in having less blue coloration and , in some populations , a pink/pale (instead of black) bill that progressively becomes more black with age (brown and horvath 1989) .
+11  some field guides misreport this color as yellow because the pale bill becomes yellow in museum study skins .
+12   the iris is brown and legs are black .
+13  it is most readily distinguished from the similar western scrub jay by the plain (unstreaked) throat and breast , and the mantle contrasting less with the head and wings .
+14  its range somewhat overlaps with the western scrub-jays , but , where they co-occur , the two species seem to show ecological and morphological character displacement (curry ''et al .
+15  2002) .
+16 ==ecology==in the winter , the mexican jay's diet consists mainly of acorns and pine nuts , which are stored in the autumn .
+17  however , they are omnivorous in all seasons and their diet includes a wide variety of plant and animal matter , including invertebrates , small amphibians and reptiles , and birds' eggs and nestlings (mccormack and brown 2008) .
+18 it has a cooperative breeding system similar to that of the related florida scrub-jay , with several birds helping at a nest; these "helpers" are usually immature offspring of the dominant pair from the previous 12 years , but also include apparently unrelated flock members .
+19 ==systematics==a recent decision by the american ornithologists' union check-list committee elevated some populations of the mexican jay to a separate species , called the transvolcanic jay (a .
+20  ultramarina), based on diagnosable phenotypic differences in plumage and morphology , millions of years of genetic divergence , and no evidence for interbreeding with mexican jays .
+21  the transvolcanic jay inhabits montane forest in the transvolcanic belt of central mexico .
+22  populations to the north retained the common name mexican jay , but the latin name changed to a .
+23  wollweberi .
+24  this was because the type specimen was a transvolcanic jay , meaning that this species had precedent for the original latin name a .
+25  ultramarina .
+26 thus , as of this decision , there are now five described subspecies of mexican jays that are divided into three divergent groups (see below) .
+27  marked differences in size , color , vocalizations , and genetics have led some authors to consider at least two of these groups as separate species (east and west; navarro-sigenza and peterson 2004) .
+28  the three groups inhabit three distinct mountainous regions in northern and central mexico .
+29  genetic breaks in mitochondrial and microsatellite dna occur abruptly between the groups , indicating some barriers to genetic exchange (mccormack et al .
+30  2008) .
+31  size variation among the groups does not always follow bergman's rule , with more southerly populations in the sierra madre oriental being larger than populations to the north .
+32  mexican jays do not seem to follow gloger's rule either as populations in arid habitat in southwestern texas are very blue .
+33  on the other hand , mexican jays in arizona - also arid habitat - have a washed-out appearance , in accordance with gloger's rule .
+34 western groupsierra madre occidental in northern [jalisco] north to central arizona and southwestern new mexico .
+35  southern and eastern limits in jalisco deserve further study .
+36  juveniles have a pink/pale base to the otherwise black bill for up to two years .
+37  eggs are pale green-blue and unspeckled , unlike eastern group where speckled eggs are common .
+38 eastern groupsierra madre oriental in nuevo len and w tamaulipas north to texas (chisos mountains) .
+39  juveniles have an all-black exterior to the bill after fledging , but roof of inner upper mandible can remain partially white for up to two years .
+40  reports of less social behavior compared to other groups are over-stated and credible accounts of cooperative breeding (ligon and husar 1974) and large flock sizes (bhagabati and horvath 2006) exist .
+41  plain , speckled , and even white eggs have been observed in a single study area (mccormack and berg 2010) .
+42 central plateau groupcentral plateau in queretaro , guanajuato , san luis potosi , and eastern jalisco .
+43  similar to eastern group but larger in most features .
+44  distinguishable in morphology and plumage in ~80% of specimens .
+45  there is an area of apparent hybridization in san luis potosi that deserves study .

@@ -1,0 +1,54 @@
+0 the red-breasted nuthatch (sitta canadensis) is a small songbird .
+1  the adult has blue-grey upperparts with cinnamon underparts , a white throat and face with a black stripe through the eyes , a straight grey bill and a black crown .
+2  its call , which has been likened to a tin trumpet , is high-pitched and nasal .
+3  it breeds in coniferous forests across canada , alaska and the northeastern and western united states .
+4  though often a permanent resident , it regularly irrupts further south if its food supply fails .
+5  there are records of vagrants occurring as far south as the gulf coast and northern mexico .
+6  it forages on the trunks and large branches of trees , often descending head first , sometimes catching insects in flight .
+7  it eats mainly insects and seeds , especially from conifers .
+8  it excavates its nest in dead wood , often close to the ground , smearing the entrance with pitch .
+9 ==taxonomy==like all nuthatches , the red-breasted nuthatch is assigned to the genus sitta (linnaeus , 1758), a name derived from sitt (), the ancient greek word for the eurasian nuthatch .
+10  the specific epithet canadensis is new latin for "belonging to canada" .
+11  the species was given its scientific name by carl linnaeus in 1766, based on a specimen collected in canada .
+12  "nuthatch" is a linguistic corruption of "nuthack", referring to the bird's habit of wedging nuts into cracks in tree bark and hacking at them until they break open .
+13  "red-breasted" is a reference to the rusty colour of the male's underparts .
+14 in the past , the red-breasted nuthatch and four other species  the corsican nuthatch , the chinese nuthatch , the algerian nuthatch and the krper's nuthatch  were thought to be a single species .
+15  these five make up a well-defined species group known as the "sitta canadensis group", and are sometimes considered to be a superspecies .
+16  within the species group , dna studies have shown that the red-breasted nuthatch , the corsican nuthatch and the chinese nuthatch make up one clade and the algerian nuthatch and krper's nuthatch make up a sister clade .
+17  the red-breasted nuthatch is monotypic across its extensive range .
+18 ==description==the red-breasted nuthatch is a small passerine , measuring {convert|4.5|in|cm|abbr=on} in length ,{#tag:ref|by convention , length is measured from the tip of the bill to the tip of the tail on a dead bird (or skin) laid on its back .
+19 |group="nb"}} with a wingspan of {convert|8.5|in|cm|abbr=on} and a weight of {convert|9.9|g|oz|abbr=on} .
+20  its back and uppertail are bluish , and its underparts rust-colored .
+21  it has a black cap and eye line and a white supercilium (eyebrow) .
+22  sexes are similarly plumaged , though females and youngsters have duller heads and paler underparts .
+23 ==voice==the red-breasted nuthatch's call is high-pitched , nasal and weak .
+24  transcribed as yenk or ink , they have been likened to a toy tin horn or a child's noisemaker .
+25  its song is a slowly repeated series of clear , nasal , rising notes , transcribed as eeen eeen eeen .
+26 ==habitat and range==though it is primarily a full-time resident of northern and subalpine conifer forests , the red-breasted nuthatch regularly migrates irruptively , with both the number migrating and the wintering locations varying from year to year .
+27  they sometimes reach northern mexico , where they are rare winter visitors to nuevo leon , baja california norte and south along the pacific slope as far as sinaloa .
+28  in the eastern united states , its range is expanding southwards .
+29  though formerly resident on isla guadalupe , an island off the western coast of mexico , it appears to have been extirpated there , with the last known record of the species on the island dating from 1971. there is a single vagrant record for mexico's isla socorro .
+30  it is an extremely rare vagrant to europe , with two records in the western palearctic; one bird successfully overwintered in eastern england .
+31 ==feeding behavior and diet==like all nuthatches , the red-breasted nuthatch is an acrobatic species , hitching itself up and down tree trunks and branches to look for food .
+32  it goes headfirst when climbing down .
+33  it can "walk" on the underside of branches .
+34  unlike woodpeckers and creepers , it does not use its tail as a prop while climbing .
+35  it tends to forage singly or in pairs .
+36 the red-breasted nuthatch's diet changes depending on the season .
+37  in the summer , it eats mostly insects , occasionally even flycatching , while in the winter , it switches to conifer seeds .
+38  at feeders it will take sunflower seeds , peanut butter , and suet .
+39  it often wedges food pieces in bark crevices in order to break them up with the bill (as opposed to holding the food in their feet , like the black-capped chickadee does) .
+40 ==breeding==the red-breasted nuthatch , like all nuthatches , is monogamous .
+41  the male courts the female with a peculiar display , lifting his head and tail while turning his back to her , drooping his wings , and swaying from side to side .
+42 this bird excavates its own cavity nest , {convert|1.53|-|37|m|ft|abbr=on} above ground (usually around {convert|4.6|m|ft|abbr=on}) .
+43  excavation is by both sexes and takes one to eight weeks .
+44  the pair smears sap around the entrance hole , presumably to help deter predators .
+45  the nest is lined with grass , moss , shredded bark and rootlets .
+46  nest building is by both sexes , but mostly by the female .
+47 the female lays 28 eggs (usually 56), which are white , creamy or pinkish , and covered with reddish-brown speckles .
+48  the eggs measure {convert|0.6||0.7|in|cm|abbr=on} long by {convert|0.4||0.5|in|cm|abbr=on} wide .
+49  incubation is by the female and lasts 1213 days .
+50  the young are altricial and stay in the nest for 23 weeks , brooded by the female but fed by both sexes .
+51  normally there is only one brood per year .
+52  lifespan is around 6 years .
+53 ==conservation status and threats==because of its large global range and its increasing population , the red-breasted nuthatch is rated as a species of least concern by the international union for conservation of nature .

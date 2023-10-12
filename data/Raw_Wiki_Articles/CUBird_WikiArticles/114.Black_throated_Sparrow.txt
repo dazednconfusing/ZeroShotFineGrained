@@ -1,0 +1,21 @@
+1	the black-throated sparrow is a small sparrow primarily found in the southwestern united states and mexico .
+2	it is sometimes referred to as the desert sparrow , due to its preferred habitat of arid desert hillsides and scrub .
+3	this name usually refers to the desert sparrow of africa and asia .
+4	the black-throated sparrow reaches a length of about 4.5-5.5 inches , and is pale gray above , with a distinctive black and white head pattern.immature are similar but lacks a black throat .
+5	its call is high and bell-like , and its song is a fairly simple , mechanical tinkling .
+6	it feeds primarily on insects and seeds , and travels in small groups , though larger groups may accumulate around sources of water in the desert .
+7	it has a loose nest of grass twigs and plant fibers carefully hidden in brush 6-18 inches above the ground .
+8	3-4 white or pale blue eggs are laid .1 medium sparrow , gray-brown upperparts , white underparts , black bib .
+9	head has dark gray cap and sharply contrasting white eyebrow and cheek stripe .
+10	bill is black .
+11	long , round-tipped tail is edged with white .
+12	legs and feet are gray .
+13	forages on the ground and in low vegetation .
+14	breeds from central oregon to northeastern california , southwestern wyoming , and southeastern colorado southward to central arizona and new mexico .
+15	spends winters south to the desert regions of the southwestern u.s. from california to central texas south into mexico .
+16	preferred habitats include deserts and scrublands .0 the striking black-throated sparrow is a denizen of open deserts of the western united states and mexico .
+17	black throat .
+18	gray body .
+19	white face stripes .
+20	white tips to outer tail feathers .
+21	juvenile similar , without black throat , but with dusky streaks and spots across chest .

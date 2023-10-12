@@ -1,0 +1,59 @@
+0 the pine siskin (spinus pinus) is a north american bird in the finch family .
+1  it is a migratory bird with an extremely sporadic winter range .
+2 ==description==these birds are fairly small , being around the same size as the widespread american goldfinch .
+3  in both sexes , total length can range from {convert|11||14|cm|in|abbr=on}, with a wingspan of {convert|18||22|cm|in|abbr=on} and weight of {convert|12|-|18|g|oz|abbr=on} .
+4 adults are brown on the upperparts and pale on the underparts , with heavy streaking throughout .
+5  they have short forked tails .
+6  their bills are conical like most finches but are more elongated and slender than those of other co-occurring finches .
+7  variably , pine siskins have yellow patches on their wings and tails , which may also consist of white streaks on the wings .
+8  although they can be confused by the more inexperienced for other finches or even american sparrows , pine siskins are distinguished by their heavy streaking , relatively slender bills , notched tail , yellow or whitish patches on the wings and smallish size .
+9 ===separation from european siskin===pine siskin in its typical morph is a drab bird , whereas european siskin (a bird the species does not naturally co-exist with), in many plumages , is much brighter .
+10  adult male european siskins are bright green and yellow with a black cap , and an unstreaked throat and breast; pine siskin does not have a corresponding bright plumage .
+11  adult female european siskins also usually have green and yellow plumage tones: for example , yellow in the supercilium and on the sides of the breast , green tones in the mantle and yellow in the rump .
+12  adult pine siskins of the typical morph do not have green and yellow tones , although juveniles can have a yellowish-buff wash on their underparts and buff-toned wingbars , for a short period prior to their autumn migration .
+13  the ground colour of the underparts of european siskin is normally pure white , whereas on pine siskin it is usually a dirtier colour .
+14  in female and juvenile european siskin , the centre of the belly and lower breast are often largely or entirely unstreaked , whereas in most pine siskins the streaking extends across the whole of the underparts .
+15  the wingbars of european siskin are broad and yellow (with the tips white) whereas they are normally narrower and buffish-white in pine siskin , contrasting with the bright yellow flash at the base of the primaries .
+16  pine siskins have a longer bill , usually with a straight culmen , compare with a short bill in european siskin , with a decurved culmen .
+17  there is a green morph of pine siskin , closer in appearance to european siskin; these birds make up only 1% of the population .
+18  these are closer in appearance to female european siskin , but differ in that they have a yellow-wash on the undertail-coverts (white on european siskin), no yellow in the supercilium , reduced underparts streaking , and much yellow at the base of the tail and remiges; there may also be a difference in the extent of yellow in the underparts but this needs further study .
+19 ==distribution and habitat==their breeding range spreads across almost the entirety of canada , alaska and , to a more variable degree , across the western mountains and northern parts of the united states .
+20  as their name indicates , the species occurs mostly as a breeder in open conifer forests .
+21  northern pine forests supports the majority of the species breeding population .
+22  however , stands of ornamental conifers or deciduous trees may support nesting birds in partially developed parks , cemeteries , and suburban woodlands .
+23  while they favor feeding in open forest canopies where cone seeds are abundant , they'll forage in habitats as diverse as deciduous forests and thickets , meadows , grasslands , weedy fields , roadsides , chaparral , and backyard gardens and lawns .
+24  they flock to backyard feeders offering small seeds .
+25  mineral deposits can lure them to otherwise unattractive habitats like winter road beds that are salted to melt snow and ice .
+26  the nest is well-hidden on a horizontal branch of a tree , often a conifer .
+27 migration by this bird is highly variable , probably related to food supply .
+28  large numbers may move south in some years; hardly any in others .
+29  this species is one of a few species that are considered "irruptive winter finches" because of the high variability of their movements based on the success of crops from year to year .
+30 ==behavior=====feeding===these birds forage in trees , shrubs and weeds .
+31  they mainly eat seeds , plant parts and some insects .
+32  in winter , they often feed in mixed flocks including american goldfinches and redpolls .
+33  small seeds , especially thistle , red alder , birch , and spruce seeds , make up the majority of the pine siskin's diet .
+34  in a part of their esophagus called the crop , the species can store up to 10% of their body weight in seeds overnight , providing extra food on cold days .
+35  they will alternately eat the young buds of willows , elms and maples , and the soft stems and leaves of weeds and even young garden vegetables .
+36  they'll glean the seeds of grass , dandelions , chickweed , sunflowers and ragweed .
+37  bird feeders often attract pine siskins , where they may eat fragments of heavy-shelled seeds , such as black oil sunflowers , left behind by heavier-billed bird species .
+38  in summer , they will eat many insects , especially aphids , as well as a few spiders and grubs , which they then feed to the young as a protein-rich food that contributes to their growth .
+39  by the time of winter , even first year siskins predominately eat seeds .
+40 pine siskins can survive in very cold temperatures .
+41  the metabolic rates of this species are typically 40% higher than a "normal" songbird of their size .
+42  when temperatures plunge as low as {convert|-70|c|f}, they can accelerate that rate up to five times normal for several hours .
+43  they also put on half again as much winter fat as their common redpoll and american goldfinch relatives .
+44  they also can protect their young from cold as well .
+45  nests are often heavily insulated with thick plant materials and females may literally never cease incubating their eggs and hatchlings , while being fed by their male mate .
+46 ==conservation status==although considered washington's most common finch , the pine siskin has suffered a significant annual decline in population since 1966, according to the breeding bird survey .
+47  due to the irruptive nature of this species , populations vary widely from year to year , and trends can be difficult to interpret .
+48  parasitism by brown-headed cowbirds can have a significant impact on pine siskin productivity , and forest fragmentation has increased their contact with cowbirds .
+49  maintaining large tracts of coniferous forest will help keep this bird common .
+50 ==taxonomy and evolution== the eurasian siskin , s .
+51  spinus is the ancestor of pine siskin , antillean siskin , s .
+52  dominicensis , and black-capped siskin , s .
+53  atriceps .
+54  the sub-species s .
+55  pinus perplexus may be closer to s .
+56  atriceps; they both thrive in the guatemalan-mexican altiplano .
+57  this siskin seems to belong to the north american spinus/carduelis evolutive radiation , whose parental species is the eurasian siskin .
+58  this finch may have displaced from america to the parental species eurasian siskin .

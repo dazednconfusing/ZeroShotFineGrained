@@ -1,0 +1,24 @@
+0 the golden-crowned kinglet (regulus satrapa) is a very small songbird .
+1 adults are olive-gray on the upperparts with white underparts , with thin bills and short tails .
+2  they have white wing bars , a black stripe through the eyes and a yellow crown surrounded by black .
+3  the adult male has an orange patch in the middle of the yellow crown .
+4 their breeding habitat is coniferous forests across canada , the northeastern and western united states , mexico and central america .
+5  they nest in a well-concealed hanging cup suspended from a conifer branch .
+6 these birds migrate to the united states .
+7  some birds are permanent residents in coastal regions and in the southern parts of their range .
+8  northern birds remain further north in winter than the ruby-crowned kinglet .
+9 they forage actively in trees or shrubs , mainly eating insects , insect eggs and spiders .
+10 they give a series of high-pitched calls on a single note , and tend not to fear human approach .
+11 ==description==adults are olive-gray on the upperparts with white underparts , with thin bills and short tails .
+12  they have white wing bars , a black stripe through the eyes and a yellow crown surrounded by black .
+13  the adult male has an orange patch in the middle of the yellow crown .
+14  the juvenile is similar to the adult , but with a browner back and without the yellow crown .
+15  this is one of the smallest passerines in north america .
+16  its length , at {convert|8|to|11|cm|in|abbr=on}, is probably the shortest of any american passerine .
+17  however , its weight , which averages around {convert|5.9|g|oz|abbr=on}, with a range of {convert|4|to|7.8|g|oz|abbr=on}, is marginally more on average than the long-tailed bushtit and black-tailed gnatcatcher .
+18 ==distribution==golden-crowned kinglet is a widespread north american bird , breeding in many us states , and over much of canada , and wintering across much of the continent south to florida , texas and mexico .
+19  it also occurs in isolated mountain ranges in southern mexico and guatemala , where it is represented by separate subspecies .
+20 ==taxonomy==the kinglets are a small group of birds sometimes included in the old world warblers , but frequently given family status , especially as recent research showed that , despite superficial similarities , the crests are taxonomically remote from the warblers .
+21  the names of the family , regulidae , and its only genus , regulus , are derived from the latin regulus , a diminutive of rex , "a king", and refer to the characteristic orange or yellow crests of adult kinglets .
+22 there are three migratory subspecies in the united states and canada , differing in size , bill length , back and rump colours , wing-bar width and colour , and length of supercilium:the subspecies "amoenus" has been synonymised with apache as the distinction between these populations are obscured by individual variation .
+23 two other (non-migratory) subspecies occur south of the bird's core range , although these are weakly differentiated from each other and so are perhaps best synonymised:hybridization with ruby-crowned kinglet has been reported to have possibly occurred .

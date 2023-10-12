@@ -1,0 +1,22 @@
+0 ==description==the northern waterthrush is a large new world warbler (and not a thrush , despite the name) .
+1  it has a length of {convert|12||15|cm|in|abbr=on}, wingspan of {convert|21||24|cm|in|abbr=on} and weighs between {convert|13|and|25|g|oz|abbr=on} among standard measurements , the wing chord is {convert|6.8|to|8.2|cm|in|abbr=on}, the tail is {convert|4.5|to|5.7|cm|in|abbr=on}, the bill is {convert|1.1|to|1.2|cm|in|abbr=on} and the tarsus is {convert|1.9|to|2.3|cm|in|abbr=on} .
+2  on the head , the crown is brown with a white supercilium .
+3  the bill is pointed and dark .
+4  the throat is lightly streaked brown to black with heavier streaking continuing onto the breast and flanks .
+5  the back is evenly brown .
+6  sexes are morphologically similar .
+7  young birds have buff , rather than white underparts .
+8 the only species bird watchers confuse with the northern waterthrush is the closely related louisiana waterthrush (parkesia motacilla), which has buff flanks , a buff undertail , and bright pink legs .
+9  the louisiana waterthrush also has a whiter throat with fewer streaks .
+10 both waterthrush species walk rather than hop , and seem to teeter , since they bob their rear ends as they move along .
+11 ==behavior==on the wintering grounds in puerto rico , northern waterthrushes leave daytime foraging areas and fly up to {convert|2|km|mi|abbr=on} to nighttime roosts .
+12  the roosts are often located in red mangrove habitats .
+13 northern waterthrushes winter in 4 main habitats in puerto rico: white mangrove , red mangrove , black mangrove , and scrub .
+14  males , which are larger and migrate earlier in spring , prefer to winter in white mangrove , and are able to maintain or gain weight through the winter .
+15  females winter in the other drier and less food-rich habitats .
+16  waterthrushes wintering in red and black mangrove can maintain body weight through the winter but lose weight in scrub .
+17 ===reproduction===the breeding habitat of the northern waterthrush is wet woodlands near water .
+18  it nests in a stump or among tree roots where it lays three to six eggs , cream- or buff-colored , with brown and gray spots .
+19  these eggs are laid in a cup nest constructed of leaves , bark strips , and rootlets .
+20 ===diet===the northern waterthrush is a terrestrial feeder , eating insects , mollusks , and crustaceans found amongst leaf litter .
+21 ===vocalization===its song is a loud swee swee chit chit weedleoo , and its call is a hard chink .

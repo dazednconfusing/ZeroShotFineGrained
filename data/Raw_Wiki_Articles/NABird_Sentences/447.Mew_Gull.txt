@@ -1,0 +1,25 @@
+0 one of the smallest of the "white-headed" gulls , the mew gull is common along pacific coast beaches in winter .
+1  it also occurs in eurasia , where it is known at the "common gull .
+2 "adult descriptionmedium-sized to small gull .
+3 unmarked yellow bill .
+4 head and underparts white .
+5 back medium gray .
+6 wingtips black with white spots .
+7 legs yellow .
+8 immature descriptionjuvenal plumage: dirty , grayish brown head , back , and chest .
+9  back feathers with light tips , giving a scaly appearance .
+10  underparts light brownish gray , barred on the flanks .
+11  tail dark brown , with slightly paler base .
+12  wingtips blackish .
+13  bill black .
+14  eyes dark .
+15  legs pinkish .
+16 first winter (basic i) plumage: like juvenal , but head and belly paler .
+17  first summer (alternate i) plumage:back gray .
+18  wing coverts worn and white .
+19  head whitish .
+20  wingtips worn and pale .
+21  second winter (basic ii) plumage: back mostly gray; some feathers brown .
+22  head and neck washed with grayish brown .
+23  tail white with irregular black band near tip .
+24  feathers of wingtips black or blackish , with only small white spots .

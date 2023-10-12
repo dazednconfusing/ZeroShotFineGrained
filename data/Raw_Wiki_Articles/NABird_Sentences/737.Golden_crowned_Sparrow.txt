@@ -1,0 +1,69 @@
+0 the golden-crowned sparrow (zonotrichia atricapilla) is a large american sparrow found in the western part of north america .
+1 systematicsthe golden-crowned sparrow is one of five species in the genus zonotrichia , a group of large american sparrows .
+2 [2] it has no subspecies .
+3 [3] it is a sister species with , and very closely related to , the white-crowned sparrow; studies of mitochondrial dna show the two evolved into separate species very recently in geologic time .
+4  the white-throated sparrow is a slightly more distant relative .
+5 [4] hybridization with both white-crowned and white-throated sparrows has been reported .
+6 [3]ornithologist john latham first described the species in his book general synopsis of birds in 1781, but he thought it was a variety of what he called the "black-crowned bunting" and neglected to give it a scientific name .
+7  that lapse was corrected in 1789, when johann friedrich gmelin assigned it the name emberiza atricapilla in the 13th edition of systema naturae .
+8 [5] various authorities in the 1800s (including john james audubon) placed it in the genus fringilla , but many assigned it to its current genus , zonotrichia , once william john swainson had established that genus .
+9  peter simon pallas described the same species in 1844 as zonotrichia coronata and , for much of the 1800s , this was the name used by most authorities .
+10 [6]in the bird's scientific name , the genus name zonotrichia is a compound word: the greek zone means "band" or "girdle" and the greek thrix or trikhos means "hair" .
+11 [7] the specific epithet atricapilla is latin for "black-haired": ater meaning "black" and capillus , meaning "hair of the head" .
+12 [8]descriptionthe size and color of its crown patches help to determine a bird's status among its flock mates .
+13 measuring 1518 cm (67 in) in length[9] with a wingspan of 24.75 cm (9.74 in)[10] and ranging from 19.0 to 35.4 g (0.67 to 1.25 oz) in mass ,[3] the adult golden-crowned sparrow is fairly large for an american sparrow .
+14 [9] like all zonotrichia sparrows , it has a relatively long , square-tipped tail and a slightly peaked crown .
+15 [11] males and females are similarly plumaged , though males average slightly larger than females .
+16  other than a plain gray nape , the adult's upperparts are grayish-brown , with broad brownish-black streaks on the back and scapulars , and an unstreaked rump .
+17 [9] its underparts are gray , slightly paler on the belly and buffier on the flanks .
+18 [12] its wings and tail are brown , and it shows two white wing bars .
+19 [9] its legs are pale brown , and its bill is dark , with the upper mandible darker than the lower .
+20  its iris is brown .
+21 [12]in the breeding season , the golden-crowned sparrow has a broad yellow central crown stripe which becomes pale gray towards the back of the head .
+22 [9]similar speciesalthough its distinctive crown patches allow for easy identification of the adult golden-crowned sparrow in breeding plumage , an immature or non-breeding bird might be mistaken for a white-crowned or white-throated sparrow .
+23  it is distinguished from the former by its crown pattern and dusky (rather than pale pink or yellowish) bill , and from the latter by its larger size , plain throat , and lack of a buff-colored central crown stripe .
+24 [13] a young or non-breeding bird may also resemble a female house sparrow , but can be distinguished by its larger size , darker plumage , longer tail and (usually) some amount of dull yellow feathering on its forehead .
+25 [14]distribution and habitatthe golden-crowned sparrow is common along the western edge of north america .
+26  it is a migratory species , breeding from north-central alaska (including the aleutian islands as far west as unimak island) and central yukon south to the northwestern corner of the us state of washington , and wintering from southern coastal alaska to northern baja california .
+27 [5] it has been recorded as a vagrant in japan and russia ,[1] and occasionally strays as far as the eastern coast of north america , from nova scotia to florida .
+28 [5] in the winter , it is generally found in brushy areas ,[11] (particularly chaparral), usually in dense shrubs .
+29 [14]behaviorthe golden-crowned sparrow spends its winters in flocks with conspecifics , but also often with other sparrow species , especially white-crowned sparrows .
+30  flock territories typically range in size from 1520 acres (6.18.1 ha) .
+31  individual birds remain with the same flock for the entire winter and return to the same wintering site each year .
+32 [15] studies show that the golden-crowned sparrow's black and gold head stripes are used to signal social status in wintering flocks .
+33  such signals help to reduce the incidence of confrontation between flock mates , thereby reducing such potential costs as injuries or the unnecessary expenditure of energy .
+34  the size and color of a bird's crown patches are better predictors of dominance (indicating which bird will avoid confrontation with another) than are the bird's size or sex .
+35  birds with similarly sized gold crown patches are far more likely to engage in agonistic behavior than are those showing differences , and the outcomes of such confrontations can be predicted based on the color of their black stripes .
+36  this suggests that social status in this species involves more complexity than a single signal will allow , and that the multiple color patches allow a gradient of interactions between flock mates .
+37 [16]feedingimmature birds lack the distinctive head stripes of adults .
+38 like other zonotrichia sparrows , the golden-crowned sparrow feeds on the ground ,[11] where it forages by pecking and scratching .
+39  it also occasionally leaps into the air after insects or gleans them from foliage .
+40 [17] its diet , particularly in the winter , consists primarily of plant material; items include seeds , berries , flowers and buds , as well as the occasional crawling insect .
+41 [17] the species is an important destroyer of weed seeds on the pacific slope ,[18] with various ryegrasses , fescues , bromes , pigweeds , chickweeds , mulleins , filarees , common knotweed and poison oak among its known food sources .
+42 [19] paired birds commonly forage together , with the male following the female .
+43 [17]the species shows two weight peaks each year: one in mid-winter , and a much higher one shortly before it begins its migration north in the spring .
+44  the latter elevated weight is maintained until the bird reaches its breeding grounds .
+45 [20]breeding and lifespanthe breeding season runs from late may through early august .
+46  males on the breeding ground sing throughout the day from an exposed perch .
+47 [12] the nest is a bulky cup built by the female .
+48 [17] located on the ground (or occasionally on a low branch), it is made of dried plant material and lined with hair , fine grasses and feathers .
+49  the female typically lays five eggs , though clutches of three tofive have been recorded .
+50 [5] the eggs , which are pale green , oval and heavily spotted with reddish-brown , measure (0.650.67)(0.800.82) mm (0.0260.031 in) .
+51 [21] they are incubated by the female for 1114 days .
+52  the young are altricialborn naked , blind and helplessbut fledge from the nest within 12 days .
+53 [10] both parents feed the young .
+54 [5]the oldest known golden-crowned sparrow lived at least 10 years and 6 months; it was banded as an adult one winter , and recaptured nine winters later .
+55 [22]voicethe song is a three-note whistle , descending in pitch .
+56  it is very distinctive , and often described as oh-dear-me .
+57  the call also sounds like the words i'm so weary , so alaskan gold miners along the trails called this bird "weary willie" .
+58  however , birds in the mountains of british columbia have been reported to have a trill on the third note , rather than a clear whistle as in other populations .
+59  these songs are heard mainly in the breeding season , but also in the wintering grounds just after fall migration as well as just before they take off for spring migration .
+60 [23] like other zonotrichia sparrows , it has a sharp , distinctive call note ,[11] which is transcribed as tsew .
+61 [14]conservation and threatsthe international union for the conservation of nature lists the golden-crowned sparrow as a species of least concern .
+62  the sparrow's extremely large range and population size lift it well above the thresholds used to designate an imperiled species ,[1] and data from christmas bird counts show that its numbers are stable or increasing .
+63 [17] throughout its range , it is protected by the migratory bird treaty act of 1918,[24] and many of its wintering grounds are in protected areas , including national forests and national wildlife refuges .
+64 [17]as with other flock-living passerines , the golden-crowned sparrow is prone to elevated levels of feather mites .
+65 [25] it serves as a host for chiggers ,[26] chewing lice , including machaerilaemus maestum ,[27] and hippoboscid flies , including ornithoica vicina .
+66 [28] diseases which are known to affect it include canarypox .
+67 [29] a number of predators prey on the golden-crowned sparrow at some point in its life cycle .
+68  these include northern and loggerhead shrikes , sharp-shinned and cooper's hawks , northern harriers , merlins , mountain pygmy owls , western screech owls , barn owls , feral cats , and columbian ground squirrels .
